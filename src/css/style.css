@@ -52,7 +52,6 @@ body {
 /*  Page liste pokemons */
 
 .pokemon-case {
-    max-width: 94%;
     margin: 0 auto;
     margin-top: 3rem;
     display: flex;
